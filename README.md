@@ -1,4 +1,4 @@
-<h2 align="left">Hi ðŸ‘‹! My name is Abhinav and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Abhinav, and I'm a Machine Learning and Data Science Engineer based in New York.</h2>
 
 ###
 
